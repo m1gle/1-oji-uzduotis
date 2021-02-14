@@ -13,7 +13,8 @@ Veikimas:
 - įvesti eilučių ilgį
 
 Pavyzdys: 
-`Iveskite varda: 
+```c++
+Iveskite varda: 
 Migle
 Iveskite savo lyti moteris/vyras: 
 moteris
@@ -25,4 +26,5 @@ Iveskite eiluciu ilgi (>2):
 * Sveika, Migle! *
 *                *
 *                *
-****************** `
+****************** 
+```
