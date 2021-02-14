@@ -7,3 +7,22 @@ v0.1 - įvedus vardą programa atspausdina *default* kreipimusi "Sveika...", rė
 v0.2 - įvedamas vardas bei lytis atspaudinimo rezultatas, jeigu moteris - "Sveika...", jeigu vyras - "Sveikas...".
 v1.0 - įvedamas vardas, lytis bei rėmelio dydis. Dydis turi būti didesnis nei 2.
 
+Veikimas:
+- įvesti vardą
+- įvesti lytį
+- įvesti eilučių ilgį
+
+Pavyzdys: 
+`Iveskite varda: 
+Migle
+Iveskite savo lyti moteris/vyras: 
+moteris
+Iveskite eiluciu ilgi (>2): 
+7
+******************
+*                *
+*                *
+* Sveika, Migle! *
+*                *
+*                *
+****************** `
