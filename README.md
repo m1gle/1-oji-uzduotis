@@ -30,3 +30,5 @@ Iveskite eiluciu ilgi (>2):
 ```
 
 Kai įvedamas lyginis skaičius, vardo eilutė būną žemiau vidurio.
+
+Atsisiuntus failą ir pasileidus .cpp failą sukompiliavus sekti terminalo nurodymus.
