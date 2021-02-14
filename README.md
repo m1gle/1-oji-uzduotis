@@ -29,3 +29,4 @@ Iveskite eiluciu ilgi (>2):
 ****************** 
 ```
 
+Kai įvedamas lyginis skaičius, vardo eilutė būną žemiau vidurio.
